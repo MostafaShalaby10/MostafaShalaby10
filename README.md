@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashalaby10&" alt="mostafashalaby10" /></p>
 
-[![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MostafaShalaby10/github-readme-stats)
+[![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafashalaby10)](https://github.com/MostafaShalaby10/github-readme-stats)
