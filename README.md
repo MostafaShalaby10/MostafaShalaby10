@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mostafa_4alaby" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa_4alaby?logo=twitter&style=for-the-badge" alt="mostafa_4alaby" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs and flutter**
+- 🌱 I’m currently learning **Arduino and Flutter**
 
 - 📫 How to reach me **ms2231710@gmail.com**
 
