@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafa Shalaby</h1>
-<h3 align="center">I'm studying in faculty of computer and information science Menofia university</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/mostafa_4alaby" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa_4alaby?logo=twitter&style=for-the-badge" alt="mostafa_4alaby" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS and flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **ms2231710@gmail.com**
 
